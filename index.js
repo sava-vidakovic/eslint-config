@@ -38,10 +38,10 @@ module.exports = {
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "@typescript-eslint/ban-ts-comment": "off",
     "@typescript-eslint/naming-convention": [
-      "error",
+      "warn",
       {
         selector: "variable",
-        format: ["camelCase", "PascalCase", "UPPER_CASE"],
+        format: ["camelCase", "PascalCase", "UPPER_CASE", "snake_case"],
       },
       {
         selector: "function",
