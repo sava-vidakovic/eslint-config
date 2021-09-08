@@ -1,11 +1,12 @@
 {
-  "name": "eslint-config-fww",
+  "name": "@vidaq/eslint-config",
   "version": "1.0.0",
   "description": "eslint rules",
   "main": "index.js",
   "keywords": [
     "eslint",
-    "config"
+    "config",
+    "prettier"
   ],
   "author": "Sava Vidakovic",
   "license": "MIT",
