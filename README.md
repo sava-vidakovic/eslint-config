@@ -18,7 +18,7 @@ Create `.prettierrc` file on the root
 {
     "singleQuote": true,
     "tabWidth": 2,
-    "printWidth": 100,
+    "printWidth": 120,
     "trailingComma": "es5",
     "arrowParens": "avoid"
 }

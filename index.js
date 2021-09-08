@@ -56,14 +56,7 @@ module.exports = {
       "error",
       { argsIgnorePattern: "^_", varsIgnorePattern: "^_" },
     ],
-    "prettier/prettier": [
-      "error",
-      {
-        singleQuote: true,
-        arrowParens: "avoid",
-        semi: true,
-      },
-    ],
+    "prettier/prettier": ["error", {}, { usePrettierrc: true }],
     "array-bracket-spacing": ["error", "never"],
     "block-spacing": "error",
     "eol-last": ["error", "always"],
