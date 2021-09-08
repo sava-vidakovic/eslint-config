@@ -1,7 +1,7 @@
 ### Install
 
 ```
-npm install git+ssh://git@gitlab.com/sava.vidakovic/eslint-config-fww.git
+npm install @vidaq/eslint-config
 ```
 
 ### Install dependencies
